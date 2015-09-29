@@ -26,14 +26,17 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="428" column="0" selection-start="19979" selection-end="19979" vertical-scroll-proportion="-0.7571702" vertical-offset="7672" max-vertical-offset="10200">
+            <state line="947" column="40" selection-start="48174" selection-end="48174" vertical-scroll-proportion="0.6462715" vertical-offset="10338" max-vertical-offset="11322">
               <folding>
-                <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#8;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#9;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -50,6 +53,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -169,12 +173,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="132" column="83" selection-start="5653" selection-end="5653" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="5644">
           <folding>
-            <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#8;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#9;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -183,12 +190,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="132" column="83" selection-start="5653" selection-end="5653" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="5644">
           <folding>
-            <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#8;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#9;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -197,12 +207,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="25" selection-start="2483" selection-end="2483" vertical-scroll-proportion="0.0" vertical-offset="431" max-vertical-offset="9282">
           <folding>
-            <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#8;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#9;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -212,16 +225,26 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="10" selection-end="10" vertical-scroll-proportion="0.03024911" vertical-offset="0" max-vertical-offset="562">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="428" column="0" selection-start="19979" selection-end="19979" vertical-scroll-proportion="-0.7571702" vertical-offset="7672" max-vertical-offset="10200">
+        <state line="947" column="40" selection-start="48174" selection-end="48174" vertical-scroll-proportion="0.6462715" vertical-offset="10338" max-vertical-offset="11322">
           <folding>
-            <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#4;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#7;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#8;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#9;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
